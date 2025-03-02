@@ -91,6 +91,8 @@ Participants contributed over 100K timestamped records, including:
 
 ## Model Training & Evaluation
 
+![training](images/training.png)
+
 We employ the **CatBoost** (Gradient Boosting) algorithm for classification:
 
 1. **Why CatBoost?**  
