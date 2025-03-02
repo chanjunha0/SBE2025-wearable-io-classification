@@ -28,8 +28,13 @@ Urban populations are facing intensifying heat stress, exacerbated in dense citi
 
 The goal is to enable accurate, participant-centric classification of indoor vs. outdoor environments, which is a crucial prerequisite to understanding personal heat exposure patterns.
 
-## Classifier Application Usage
-Below is a step-by-step guide to running the classifier locally and can also be viewed at `(LINK)`:
+## 📥 Download the App
+Step by step video tutorial: LINK
+
+To download and run the classifier app, go to the latest release:
+➡️ [Latest Release](https://github.com/chanjunha0/SBE2025-wearable-io-classification/releases/latest)
+
+After downloading `classifier.app.zip`, unzip it and double-click `classifier.app` to launch.
 >**No Additional Downloads**: does not require the user to download anything extra beyond the application. 
 
 >**Data Privacy is maintained**:  all training is done locally on the user's machine and is never uploaded.
@@ -39,6 +44,8 @@ Below is a step-by-step guide to running the classifier locally and can also be 
 3. Input the parameters and upload the data
 4. Click "Process file"
 5. Predicted results saved and returned as a csv.
+
+The mock data was generated using https://www.mockaroo.com/.
 
 ## Methodology Overview
 
