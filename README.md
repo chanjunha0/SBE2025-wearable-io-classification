@@ -29,7 +29,7 @@ Urban populations are facing intensifying heat stress, exacerbated in dense citi
 The goal is to enable accurate, participant-centric classification of indoor vs. outdoor environments, which is a crucial prerequisite to understanding personal heat exposure patterns.
 
 ## 📥 Download the App
-Step by step video tutorial: LINK
+Step by step video tutorial: [Watch on YouTube](https://www.youtube.com/watch?v=vcyOgcfBTiU)
 
 To download and run the classifier app, go to the latest release:
 ➡️ [Latest Release](https://github.com/chanjunha0/SBE2025-wearable-io-classification/releases/latest)
